@@ -1,5 +1,5 @@
 class car:
-    colour = "red"
+    colour = "blue"
     brand = "BMW"
 c1 = car()
 print(c1.colour)
