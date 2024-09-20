@@ -1,6 +1,6 @@
-first = input("enter 1st no: ")
-operator = input("enter operator(+,-,*,/,%): ")
-second = input("enter 2nd no: ")
+first = input("Enter 1st no: ")
+operator = input("Enter operator(+,-,*,/,%): ")
+second = input("Enter 2nd no: ")
 first = int(first)
 second = int(second)
 if operator == "+":
